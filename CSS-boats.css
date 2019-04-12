@@ -1,0 +1,26 @@
+/*
+* Emily Trainer
+* 4/12/19
+* Boats
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+
+header { 
+    background-color: lightsteelblue;}
+main {
+    background-color: lightskyblue;
+}
+footer {
+    background-color: darkgray;
+}
